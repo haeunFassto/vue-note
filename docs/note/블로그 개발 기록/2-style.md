@@ -12,7 +12,7 @@ Next.js로 개발을 하면서는 tailwind, module.scss, styled components를 �
 
 - Tailwind는 간단하게 클래스이름만으로 스타일 주고 싶을 때 (주로 padding, margin 값 주려고 사용)
 - Module.scss: 그 컴포넌트에만 CSS 적용하고 싶을 때, 애니메이션이나 transformation 등 효과를 미디어 쿼리를 사용해야할 때 주로 사용했다.
-- Styled Components: Tailwind로 하기엔 할 게 많고 module.scss를 쓰기엔 적은 양이었을때.
+- Styled Components: Tailwind로 하기엔 할 게 많고 module.scss를 쓰기엔 적은 양이었을때 사용했다. 또 일회성인 스타일이 필요할 때 사용했다.
 
 근데 이렇게 그때그때 유용한 놈들을 섞어 사용하니까... 관리하기가 너무 힘들었다. ㅜㅜ 
 

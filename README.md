@@ -5,4 +5,5 @@
 [👀 노트 보러가기](https://pullingoff.github.io/vue-note)
 
 ## Made up with
-vuepress
+
+`vuepress`
